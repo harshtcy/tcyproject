@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8"> 
-        <title>harsh  gsdfsdffsfsff</title> 
+        <title>harsh  abcdef</title> 
     </head>
     <body>
 	<?php
